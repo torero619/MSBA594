@@ -1,4 +1,4 @@
-# Environment Setup
+# Setup Azure Data Studio
 
 Setting up Azure Data Studio
 
