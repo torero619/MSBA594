@@ -29,8 +29,8 @@ Sprint Points Breakdown
 5. Support with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
-- PowerBI/Tableau
-- Jamovi
+- Pivot Table
+- Power Query
 
 ## Sprint 2 (19 FEB - 04 MAR)
 
