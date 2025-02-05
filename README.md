@@ -41,6 +41,7 @@ Sprint Points Breakdown
 1. ETL Synthea Data
 2. Create Calculated Ratios
 3. (1) Data Visualization
+4. Support with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 - PowerBI/Tableau
