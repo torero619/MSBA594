@@ -3,6 +3,19 @@ About this course
 - Individual work done in groups
 - **Schedule: W 4-6:50PM**
 
+```diff
+! MSBA 594 = 700pts 
+```
+
+Sprint Points Breakdown
+
+- Deliverable = +60pts
+- Attempt Stretch Goal1 = +10pts
+- Successful Stretch Goal1 = +10pts
+- Attempt Stretch Goal2 = +10pts
+- Successful Stretch Goal2 = +10pts
+
+
 ## Sprint 1 (05 FEB - 18 FEB)
 
 ### Datasets
