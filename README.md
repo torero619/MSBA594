@@ -19,7 +19,7 @@ Sprint Points Breakdown
 ## Sprint 1 (05 FEB - 18 FEB)
 
 ### Datasets
-- SQL Database
+- MSBA 594 Database
 
 ### Basic Deliverables
 1. Copy Demo
@@ -27,10 +27,10 @@ Sprint Points Breakdown
 3. Create Calculated Ratios
 4. (1) Data Visualization
 5. Support with Literature
+6. Intro Survey (30pts)
 
 ### Stretch Goals (you are not limited to these, these are only examples)
-- Pivot Table
-- Power Query
+
 
 ## Sprint 2 (19 FEB - 04 MAR)
 
@@ -44,6 +44,8 @@ Sprint Points Breakdown
 4. Support with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- Pivot Table
+- Power Query
 - PowerBI/Tableau
 - Jamovi
 
