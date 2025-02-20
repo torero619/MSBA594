@@ -40,8 +40,9 @@ Sprint Points Breakdown
 ### Basic Deliverables
 1. ETL Synthea Data (your own subset of patient data)
 2. Create Calculated Metric
-3. (1) Meaningful Data Visualization
-4. Support your insights with Literature
+3. Descriptive Stats
+4. (1) Meaningful Data Visualization
+5. Support your insights with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 - Pivot Table
