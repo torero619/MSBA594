@@ -19,7 +19,7 @@ Sprint Points Breakdown
 ## Sprint 1 (05 FEB - 18 FEB)
 
 ### Datasets
-- MSBA 594 Database
+- Database:HealthCenter
 
 ### Basic Deliverables
 1. Copy Demo
@@ -35,7 +35,7 @@ Sprint Points Breakdown
 ## Sprint 2 (19 FEB - 04 MAR)
 
 ### Datasets
-- SQL Database
+- Database: Synthea
 
 ### Basic Deliverables
 1. ETL Synthea Data (your own subset of patient data)
@@ -53,16 +53,22 @@ Sprint Points Breakdown
 ## Sprint 3 (05 MAR - 18 MAR)
 
 ### Datasets
-- SQL Database
+SQL Database: Synthea
 
 ### Basic Deliverables
+1. ETL Synthea Data (your own subset of patient data)
+2. Create Calculated Metric
+3. Descriptive Stats
+4. Population Comparisons
+5. (3) Meaningful Data Visualization
+6. Support your insights with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 
 ## Sprint 4 (19 MAR - 01 APR)
 
 ### Datasets
--SQL Database
+SQL Database: Synthea
 
 ### Basic Deliverables
 
