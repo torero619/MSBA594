@@ -38,10 +38,10 @@ Sprint Points Breakdown
 - SQL Database
 
 ### Basic Deliverables
-1. ETL Synthea Data
-2. Create Calculated Ratios
-3. (1) Data Visualization
-4. Support with Literature
+1. ETL Synthea Data (your own subset of patient data)
+2. Create Calculated Metric
+3. (1) Meaningful Data Visualization
+4. Support your insights with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 - Pivot Table
