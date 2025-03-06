@@ -53,7 +53,7 @@ Sprint Points Breakdown
 ## Sprint 3 (05 MAR - 18 MAR)
 
 ### Datasets
-SQL Database: Synthea
+- SQL Database: Synthea
 
 ### Basic Deliverables
 1. ETL Synthea Data (your own subset of patient data)
@@ -64,22 +64,36 @@ SQL Database: Synthea
 6. Support your insights with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- 
 
 ## Sprint 4 (19 MAR - 01 APR)
 
 ### Datasets
-SQL Database: Synthea
+- SQL Database: Synthea
+- Self discovered dataset
 
 ### Basic Deliverables
 
+1. Slide containing SQL query or explanation of calculation of data manipulation
+2. Descriptive Stats
+3. Population Comparisons
+4. (2) Meaningful Data Visualization
+5. Support your insights with Literature
+
 ### Stretch Goals (you are not limited to these, these are only examples)
+
+- Produce a ratio, explain your inclusion, exclusion criteria
+- ???
 
 ## Sprint 5 (02 APR - 15 APR)
 
 ### Datasets
 - SQL Database
+- Self discovered dataset
 
 ### Basic Deliverables
+
+-
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 
@@ -87,24 +101,33 @@ SQL Database: Synthea
 
 ### Datasets
 - SQL Database
+- Self discovered dataset
 
 ### Basic Deliverables
+- 
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- 
 
 ## Sprint 7 (30 APR - 13 MAY)
 
 ### Datasets
 - SQL Database
+- Self discovered dataset
 
 ### Basic Deliverables
+- 
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 
 ## Sprint 8 (14 MAY - 21 MAY)
 
 ### Datasets
+- SQL Database
+- Self discovered dataset
 
 ### Basic Deliverables
+- 
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- 
