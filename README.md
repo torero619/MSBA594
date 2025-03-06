@@ -96,6 +96,7 @@ Sprint Points Breakdown
 -
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- 
 
 ## Sprint 6 (16 APR - 29 APR)
 
