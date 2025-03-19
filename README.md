@@ -30,6 +30,7 @@ Sprint Points Breakdown
 6. Intro Survey (30pts)
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- none
 
 
 ## Sprint 2 (19 FEB - 04 MAR)
@@ -64,7 +65,7 @@ Sprint Points Breakdown
 6. Support your insights with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
-- 
+- define (2) of your own and provide explanation in submission
 
 ## Sprint 4 (19 MAR - 01 APR)
 
@@ -83,7 +84,7 @@ Sprint Points Breakdown
 ### Stretch Goals (you are not limited to these, these are only examples)
 
 - Produce a ratio, explain your inclusion, exclusion criteria
-- ???
+- define (2) of your own and provide explanation in submission
 
 ## Sprint 5 (02 APR - 15 APR)
 
