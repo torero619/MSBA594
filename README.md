@@ -83,8 +83,10 @@ Sprint Points Breakdown
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 
-- Produce a ratio, explain your inclusion, exclusion criteria
+- Must be different than previous Sprints' stretch goals
 - define (2) of your own and provide explanation in submission
+- Produce a ratio, explain your inclusion, exclusion criteria
+- Use a new SQL technique
 
 ## Sprint 5 (02 APR - 15 APR)
 
