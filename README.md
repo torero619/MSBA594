@@ -75,7 +75,7 @@ Sprint Points Breakdown
 
 ### Basic Deliverables
 
-1. Slide containing SQL query or explanation of calculation of data manipulation
+1. Slide containing SQL query including explanation of calculation/encoding your manipulated data
 2. Descriptive Stats
 3. Population Comparisons
 4. (2) Meaningful Data Visualization
