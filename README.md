@@ -96,10 +96,19 @@ Sprint Points Breakdown
 
 ### Basic Deliverables
 
--
+1. Slide containing explanation of calculation/encoding your manipulated data (SQL if used)
+2. Descriptive Stats
+3. Population Comparisons
+4. (2) Meaningful Data Visualization
+5. Support your insights with Literature
+6. Be prepared for Demo
 
 ### Stretch Goals (you are not limited to these, these are only examples)
-- 
+- *Must be different than previous Sprints' stretch goals
+- define (2) of your own and provide explanation in submission
+- Produce a ratio, explain your inclusion, exclusion criteria
+- Use a new SQL technique
+- Connect Python with SQL
 
 ## Sprint 6 (16 APR - 29 APR)
 
@@ -108,10 +117,19 @@ Sprint Points Breakdown
 - Self discovered dataset
 
 ### Basic Deliverables
-- 
+
+1. Slide containing SQL query including explanation of calculation/encoding your manipulated data
+2. Descriptive Stats
+3. Population Comparisons
+4. (2) Meaningful Data Visualization
+5. Support your insights with Literature
+6. Be prepared for Demo
 
 ### Stretch Goals (you are not limited to these, these are only examples)
-- 
+- *Must be different than previous Sprints' stretch goals
+- define (2) of your own and provide explanation in submission
+- Produce a ratio, explain your inclusion, exclusion criteria
+- Use a new SQL technique
 
 ## Sprint 7 (30 APR - 13 MAY)
 
@@ -120,18 +138,28 @@ Sprint Points Breakdown
 - Self discovered dataset
 
 ### Basic Deliverables
-- 
+
+1. Slide containing SQL query including explanation of calculation/encoding your manipulated data
+2. Descriptive Stats
+3. Population Comparisons
+4. (2) Meaningful Data Visualization
+5. Support your insights with Literature
+6. Be prepared for Demo
 
 ### Stretch Goals (you are not limited to these, these are only examples)
+- Must be different than previous Sprints' stretch goals
+- define (2) of your own and provide explanation in submission
+- Produce a ratio, explain your inclusion, exclusion criteria
+- Use a new SQL technique
+
 
 ## Sprint 8 (14 MAY - 21 MAY)
 
 ### Datasets
-- SQL Database
-- Self discovered dataset
+- N/A
 
 ### Basic Deliverables
-- 
+- Power Point Presentation (lessons learned, key techniques you picked up in your stretch goals)
 
 ### Stretch Goals (you are not limited to these, these are only examples)
-- 
+- N/A
