@@ -16,7 +16,7 @@ Sprint Points Breakdown
 - Successful Stretch Goal2 = +10pts
 
 
-## Sprint 1 (05 FEB - 18 FEB)
+## Sprint 1 (28 JAN - 10 FEB)
 
 ### Datasets
 - Database:HealthCenter
@@ -33,7 +33,7 @@ Sprint Points Breakdown
 - none
 
 
-## Sprint 2 (19 FEB - 04 MAR)
+## Sprint 2 (11 FEB - 24 FEB)
 
 ### Datasets
 - Database: Synthea
@@ -51,7 +51,7 @@ Sprint Points Breakdown
 - PowerBI/Tableau
 - Jamovi
 
-## Sprint 3 (05 MAR - 18 MAR)
+## Sprint 3 (25 FEB - 10 MAR)
 
 ### Datasets
 - SQL Database: Synthea
@@ -67,7 +67,7 @@ Sprint Points Breakdown
 ### Stretch Goals (you are not limited to these, these are only examples)
 - define (2) of your own and provide explanation in submission
 
-## Sprint 4 (19 MAR - 01 APR)
+## Sprint 4 (11 MAR - 24 MAR)
 
 ### Datasets
 - SQL Database: Synthea
@@ -88,7 +88,9 @@ Sprint Points Breakdown
 - Produce a ratio, explain your inclusion, exclusion criteria
 - Use a new SQL technique
 
-## Sprint 5 (02 APR - 15 APR)
+## SPRING BREAK (22 MAR - 29 MAR)
+
+## Sprint 5 (01 APR - 14 APR)
 
 ### Datasets
 - SQL Database
@@ -110,7 +112,7 @@ Sprint Points Breakdown
 - Use a new SQL technique
 - Connect Python with SQL
 
-## Sprint 6 (16 APR - 29 APR)
+## Sprint 6 (15 APR - 28 APR)
 
 ### Datasets
 - SQL Database
@@ -131,7 +133,7 @@ Sprint Points Breakdown
 - Produce a ratio, explain your inclusion, exclusion criteria
 - Use a new SQL technique
 
-## Sprint 7 (30 APR - 13 MAY)
+## Sprint 7 (29 APR - 06 MAY)
 
 ### Datasets
 - SQL Database
@@ -153,7 +155,7 @@ Sprint Points Breakdown
 - Use a new SQL technique
 
 
-## Sprint 8 (14 MAY - 21 MAY)
+## Sprint ? (???)
 
 ### Datasets
 - N/A
