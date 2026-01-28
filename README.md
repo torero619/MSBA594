@@ -19,7 +19,7 @@ Sprint Points Breakdown
 ## Sprint 1 (28 JAN - 10 FEB)
 
 ### Datasets
-- Database:HealthCenter
+- Database: MSBA594
 
 ### Basic Deliverables
 1. Copy Demo
