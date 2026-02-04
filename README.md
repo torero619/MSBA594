@@ -24,10 +24,10 @@ Sprint Points Breakdown
 ### Basic Deliverables
 1. Copy Demo
 2. ETL HRSA Data
-3. Create Calculated Ratios
+3. Create Calculated Column
 4. (1) Data Visualization
 5. Support with Literature
-6. Intro Survey (30pts)
+6. Intro Survey + Canvas Picture (30pts)
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 - none
