@@ -43,7 +43,7 @@ Sprint Points Breakdown
 2. Create Calculated Metric
 3. Descriptive Stats
 4. (1) Meaningful Data Visualization
-5. Support your insights with Literature
+5. Support your insights with Literature (3 articles with MeSH terms)
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 - Pivot Table
