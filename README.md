@@ -81,6 +81,7 @@ Sprint Points Breakdown
 4. Population Comparisons
 5. (2) Meaningful Data Visualization
 6. Support your insights with Literature
+7. Suggest further avenues for research/analysis
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 
