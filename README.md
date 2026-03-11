@@ -75,11 +75,12 @@ Sprint Points Breakdown
 
 ### Basic Deliverables
 
-1. Slide containing SQL query including explanation of calculation/encoding your manipulated data
-2. Descriptive Stats
-3. Population Comparisons
-4. (2) Meaningful Data Visualization
-5. Support your insights with Literature
+1. Slide containing explanation of logic for query that generates dataset
+2. SQL file
+3. Descriptive Stats
+4. Population Comparisons
+5. (2) Meaningful Data Visualization
+6. Support your insights with Literature
 
 ### Stretch Goals (you are not limited to these, these are only examples)
 
