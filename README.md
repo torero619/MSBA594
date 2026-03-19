@@ -90,9 +90,9 @@ Sprint Points Breakdown
 - Produce a ratio, explain your inclusion, exclusion criteria
 - Use a new SQL technique
 
-## SPRING BREAK (22 MAR - 29 MAR)
 
-## Sprint 5 (01 APR - 14 APR)
+## Sprint 5 (25 MAR - 14 APR)
+### SPRING BREAK (30 MAR - 06 APR)
 
 ### Datasets
 - SQL Database
